@@ -14,18 +14,20 @@ Currently pursuing MS in Computer Science at USC.
 
 ---
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20)
+## 🚀 GitHub Snapshot
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragnya-suresh18&show_icons=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragnya-suresh18&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20" />
+</p>
+
 
 ---
 
 ## 🛠 What I Work With
 
 **Languages**  
-Python · TypeScript · JavaScript · Kotlin · C  
+Python · TypeScript · C++
 
 **Backend & Systems**  
 FastAPI · REST APIs · Docker · Kubernetes · Async systems  
