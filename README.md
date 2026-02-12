@@ -15,10 +15,11 @@ Currently pursuing MS in Computer Science at USC.
 ---
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20&theme=default)](https://github.com/pragnya-suresh18)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20)
 
 ## GitHub Stats
-[![Pragnya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragnya-suresh
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragnya-suresh18&show_icons=true&count_private=true)
+
 ---
 
 ## 🛠 What I Work With
