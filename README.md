@@ -18,7 +18,8 @@ Currently pursuing MS in Computer Science at USC.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pragnya-suresh18" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20&cache_seconds=1800" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20&hide_border=true&cache_seconds=86400" />
+
 </p>
 
 
