@@ -16,11 +16,19 @@ Currently pursuing MS in Computer Science at USC.
 
 ## GitHub Snapshot
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pragnya-suresh18" />
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pragnya-suresh18&show_icons=true&count_private=true&hide=stars&hide_rank=true" 
+    alt="Pragnya Suresh GitHub statistics showing total contributions, commits, and activity overview" 
+  />
+</p>
 
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20" 
+    alt="Programming language distribution across Pragnya Suresh's GitHub repositories" 
+  />
 </p>
 
 
