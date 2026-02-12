@@ -14,11 +14,11 @@ Currently pursuing MS in Computer Science at USC.
 
 ---
 
-## 🚀 GitHub Snapshot
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragnya-suresh18&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20" />
+  <img src="https://streak-stats.demolab.com?user=pragnya-suresh18" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnya-suresh18&layout=compact&langs_count=20&cache_seconds=1800" />
 </p>
 
 
